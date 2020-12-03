@@ -1,4 +1,4 @@
-***Terminal Commands to view the  project on port 80
+**Terminal Commands to view the  project on port 80
 
 
 docker build .
