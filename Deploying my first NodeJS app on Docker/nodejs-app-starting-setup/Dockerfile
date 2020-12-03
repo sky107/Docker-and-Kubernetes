@@ -1,7 +1,7 @@
 FROM node
 # pull the prebuilt image FROM DOCKER HUB
 WORKDIR /app
-COPY . .
+COPY . /app
 # first dot indicates path in your machine and other dot inside image location
 # As workdir /app we can use two dot as well insted 
 # here we are using /app
