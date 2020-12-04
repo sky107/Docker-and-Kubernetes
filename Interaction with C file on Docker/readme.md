@@ -12,7 +12,7 @@ Output | http://res.cloudinary.com/df2q7cryi/image/upload/cad111ae0dafbafa0f6f62
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This Dokcer image of C file is uploaded on Docker Hub via Terminal and you can access it using using comand | docker run -it siddharthsky/testfilec
+This Docker image of C file is uploaded on Docker Hub via Terminal and you can access it using using comand | docker run -it siddharthsky/testfilec
 
 Note: This image is mounted on top of GCC image
 
