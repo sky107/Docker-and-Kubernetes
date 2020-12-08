@@ -20,10 +20,9 @@ Image Building: | http://res.cloudinary.com/df2q7cryi/image/upload/7b1a440eff92e
 
 Feedback Form | http://res.cloudinary.com/df2q7cryi/image/upload/4709840f6288ec15f8040221f06cae041607397221.png
 
-Dockerizing the container two times | http://res.cloudinary.com/df2q7cryi/image/upload/fd57b271b49b711533c3c84999ab33821607397160.png
+Dockerizing 2times| http://res.cloudinary.com/df2q7cryi/image/upload/fd57b271b49b711533c3c84999ab33821607397160.png
 
 Data persistance check | http://res.cloudinary.com/df2q7cryi/image/upload/752a443676ae2fd362a2a013e4833fcf1607397271.png            
-
 
 
 http://res.cloudinary.com/df2q7cryi/image/upload/71c1f1ac54ede7e0f15aee1c4694bbeb1607397301.png
